@@ -2,7 +2,7 @@
 ![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
-# Randy Olson's data analysis and machine learning projects
+## Randy Olson's data analysis and machine learning projects
 
 © 2016 - current, Randal S. Olson
 
